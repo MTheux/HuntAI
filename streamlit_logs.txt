@@ -1,0 +1,7 @@
+﻿streamlit : 2025-06-18 18:22:40.525 Port 8501 is already in use
+No linha:1 caractere:1
++ streamlit run SentinelAI.py --server.port 8501 --server.enableCORS fa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2025-06-18 18:2... already in use:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

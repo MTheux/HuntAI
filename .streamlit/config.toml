@@ -1,0 +1,12 @@
+# .streamlit/config.toml
+[theme]
+# Tema Preto e Vermelho para um visual mais agressivo/hack
+primaryColor="#E50000"        # Vermelho vibrante (botões, links, elementos selecionados)
+backgroundColor="#000000"    # Fundo principal preto puro
+secondaryBackgroundColor="#1A1A1A" # Fundo secundário (sidebar, expanders, blocos de código)
+textColor="#FAFAFA"          # Cor do texto (branco suave)
+font="monospace"             # Fonte monoespaçada para um toque de código/terminal
+
+# Configurações globais (opcional, mas bom ter)
+[global]
+disableWatchdogWarning=true
